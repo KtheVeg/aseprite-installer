@@ -1,3 +1,5 @@
+**CHECK RELEASE NOTES FOR CURRENTLY ACTIVE FEATURES**
+
 # Aseprite Installer
 A basic installer that downloads and builds Aseprite from scratch.
 
